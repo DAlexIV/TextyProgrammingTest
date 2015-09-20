@@ -1,0 +1,16 @@
+One of the most famous quotes about programming is Phil Karlton's quote:
+“There are only two hard things in Computer Science: ...”
+Please, continue the phrase.
+#
+cache invalidation and naming things
+testing and just testing
+laziness and both left hands
+encapsulation and polymorphism
+1
+22
+39
+24
+15
+0
+
+

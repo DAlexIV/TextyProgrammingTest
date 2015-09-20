@@ -1,0 +1,21 @@
+Let's start with a simple bitwise operations question. What is 0011 OR 0101?
+#
+0111
+0110
+0011
+1111
+1
+68
+14
+9
+8
+1
+Bitwise operations apply to every pair of bits.
+Result of this operation is 0111:
+ 0 OR 0 = 0 
+ 0 OR 1 = 1 
+ 1 OR 0 = 1 
+ 1 OR 1 = 1
+#
+
+

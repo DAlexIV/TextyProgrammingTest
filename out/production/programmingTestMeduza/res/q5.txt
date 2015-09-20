@@ -1,0 +1,21 @@
+my_array = [true, false, true]
+cond = my_array[2] || false
+
+if (true || (100 > 50)) && !false || cond
+	print "It will work"
+else
+	print "Nope :("
+end
+
+Certainly, this is the most challenging problem in this test.
+Fortunately, chances are fifty-fify.
+What will appear on the screen?
+#
+Nope :(
+It will work
+2
+22
+78
+1
+Almost there!
+# 

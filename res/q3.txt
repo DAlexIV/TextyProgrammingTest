@@ -1,0 +1,14 @@
+What happens if you will type following line in terminal?
+cat file.txt | sort -u | wc -l
+#
+Computer will show you a nice cat
+Computer will find all file.txt files and sort them by size
+Computer will count a number of unique rows in file.txt
+Program will execute invalid operation and will be closed
+3
+2
+38
+54
+6
+0
+

@@ -1,0 +1,13 @@
+What is UNIX time?
+#
+This is the time in Silicon Valley. Every programmer use this time.
+This is amount of seconds passed from midnight of 1st January, 1970
+This is time until 2000. That term appeared while humanity was solving Y2K problem.
+This is command for displaying current time
+2
+7
+68
+7
+18
+0
+

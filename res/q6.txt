@@ -1,0 +1,21 @@
+var new_word = ""
+
+for (var i = 0; i < "hello world".length; ++i) {
+	if (i % 2 == 0) {
+		new_word = (new_word + "hello world")[i]
+	}
+}
+
+What is new_word value after this code completes?
+#
+hlowrd
+l
+hello world
+Nothing, there is a bug in code
+2
+24
+23
+23
+31
+0
+

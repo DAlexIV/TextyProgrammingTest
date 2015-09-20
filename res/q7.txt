@@ -1,0 +1,26 @@
+def tax(bill):
+   """Adds 8% tax to a restaurant bill"""
+    bill *= 1.08
+    return bill
+
+print(tax(100))
+
+Program adds tax to bill. Guess what will be on screen?
+#
+108.0
+180.0
+Nothing. There is a bug there.
+3
+65
+7
+27
+3
+This is a python code. Indents are extremely important in python code.
+If you remove first line of code in tax methon or just add one space before it then everything will work perfectly with answer 108.
+#
+This is a python code. Indents are extremely important in python code.
+If you remove first line of code in tax methon or just add one space befor$
+#
+Probably, you have a python interpreter in your mind!
+#
+
